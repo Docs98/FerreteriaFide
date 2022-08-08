@@ -1,0 +1,576 @@
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\appsettings.json
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\Nazox.exe
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\Nazox.deps.json
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\Nazox.runtimeconfig.json
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\Nazox.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\Nazox.dll
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\ref\Nazox.dll
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\Nazox.pdb
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\Nazox.Views.dll
+C:\Users\Dell\source\repos\Nazox\Nazox\bin\Debug\net5.0\Nazox.Views.pdb
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\staticwebassets\Nazox.StaticWebAssets.Manifest.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\staticwebassets\Nazox.StaticWebAssets.xml
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\scopedcss\bundle\Nazox.styles.css
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.TagHelpers.input.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.TagHelpers.output.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorCoreGenerate.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AppsChat\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AppsKanbanBoard\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthLockScreen\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthLogin\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthRecoverpw\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthRegister\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Calendar\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsApex\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsChartjs\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsFlot\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsKnob\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsSparkline\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceAddProduct\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCart\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCheckout\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCustomers\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceOrders\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceProductDetail\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceProducts\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceShops\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EmailInbox\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EmailRead\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormAdvanced\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormEditors\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormElements\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormMask\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormUploads\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormValidation\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormWizard\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormXeditable\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsDripicons\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsFontawesome\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsMaterialdesign\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsRemix\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsBoxed\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsColoredSidebar\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsCompactSidebar\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriBoxedWidth\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriColoredHeader\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriPreloader\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriScrollable\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriTopbarLight\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHorizontal\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsIconSidebar\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsLightSidebar\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsPreloader\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\MapsGoogle\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\MapsVector\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Pages404\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Pages500\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesComingsoon\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesFaqs\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesMaintenance\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesPricing\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesStarter\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesTimeline\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesBasic\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesDatatable\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesEditable\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesResponsive\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiAlerts\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiButtons\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiCards\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiCarousel\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiDropdowns\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiGeneral\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiGrid\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiImages\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiLightbox\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiModals\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiNotifications\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiOffcanvas\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiProgressbars\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiRangeslider\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiRating\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiRoundslider\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiSessionTimeout\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiSweetAlert\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiTabsAccordions\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiTypography\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiVideo\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Error.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_boxed.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_colored_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_compact_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_boxed.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_colored.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_topbarlight.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_icon_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_light_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_preloader.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_BlankLayout.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_footer.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_head_css.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_horizontal.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_Layout.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_page_title.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_right_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_title_meta.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_topbar.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_vendor_scripts.cshtml.g.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.Views.pdb
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.dll
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\ref\Nazox.dll
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.pdb
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Nazox\Nazox\obj\Debug\net5.0\Nazox.csproj.CopyComplete
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\appsettings.Development.json
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\appsettings.json
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\Nazox.exe
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\Nazox.deps.json
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\Nazox.runtimeconfig.json
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\Nazox.runtimeconfig.dev.json
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\Nazox.dll
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\ref\Nazox.dll
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\Nazox.pdb
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\Nazox.Views.dll
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\bin\Debug\net5.0\Nazox.Views.pdb
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.csprojAssemblyReference.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.AssemblyInfoInputs.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.AssemblyInfo.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.csproj.CoreCompileInputs.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.MvcApplicationPartsAssemblyInfo.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorAssemblyInfo.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorAssemblyInfo.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\staticwebassets\Nazox.StaticWebAssets.Manifest.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\staticwebassets\Nazox.StaticWebAssets.xml
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\scopedcss\bundle\Nazox.styles.css
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.TagHelpers.input.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.TagHelpers.output.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorCoreGenerate.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AppsChat\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AppsKanbanBoard\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthLockScreen\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthLogin\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthRecoverpw\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthRegister\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Calendar\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsApex\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsChartjs\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsFlot\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsKnob\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsSparkline\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceAddProduct\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCart\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCheckout\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCustomers\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceOrders\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceProductDetail\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceProducts\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceShops\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EmailInbox\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EmailRead\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormAdvanced\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormEditors\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormElements\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormMask\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormUploads\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormValidation\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormWizard\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormXeditable\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsDripicons\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsFontawesome\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsMaterialdesign\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsRemix\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsBoxed\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsColoredSidebar\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsCompactSidebar\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriBoxedWidth\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriColoredHeader\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriPreloader\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriScrollable\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriTopbarLight\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHorizontal\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsIconSidebar\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsLightSidebar\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsPreloader\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\MapsGoogle\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\MapsVector\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Pages404\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Pages500\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesComingsoon\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesFaqs\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesMaintenance\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesPricing\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesStarter\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesTimeline\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesBasic\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesDatatable\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesEditable\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesResponsive\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiAlerts\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiButtons\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiCards\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiCarousel\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiDropdowns\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiGeneral\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiGrid\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiImages\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiLightbox\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiModals\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiNotifications\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiOffcanvas\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiProgressbars\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiRangeslider\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiRating\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiRoundslider\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiSessionTimeout\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiSweetAlert\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiTabsAccordions\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiTypography\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiVideo\Index.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Error.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_boxed.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_colored_sidebar.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_compact_sidebar.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_boxed.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_colored.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_topbarlight.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_icon_sidebar.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_light_sidebar.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_preloader.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_BlankLayout.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_footer.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_head_css.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_horizontal.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_Layout.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_page_title.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_right_sidebar.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_sidebar.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_title_meta.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_topbar.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_vendor_scripts.cshtml.g.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorTargetAssemblyInfo.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorTargetAssemblyInfo.cs
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.Views.pdb
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.dll
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\ref\Nazox.dll
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.pdb
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.genruntimeconfig.cache
+D:\NAZOX LAST WORK\asp.net core\Nazox\Nazox\obj\Debug\net5.0\Nazox.csproj.CopyComplete
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\appsettings.Development.json
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\appsettings.json
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\Nazox.exe
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\Nazox.deps.json
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\Nazox.runtimeconfig.json
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\Nazox.runtimeconfig.dev.json
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\Nazox.dll
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\ref\Nazox.dll
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\Nazox.pdb
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\Nazox.Views.dll
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\bin\Debug\net5.0\Nazox.Views.pdb
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.GeneratedMSBuildEditorConfig.editorconfig
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.AssemblyInfoInputs.cache
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.AssemblyInfo.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.csproj.CoreCompileInputs.cache
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.MvcApplicationPartsAssemblyInfo.cache
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorAssemblyInfo.cache
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorAssemblyInfo.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\staticwebassets\Nazox.StaticWebAssets.Manifest.cache
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\staticwebassets\Nazox.StaticWebAssets.xml
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\scopedcss\bundle\Nazox.styles.css
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.TagHelpers.input.cache
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.TagHelpers.output.cache
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorCoreGenerate.cache
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AppsChat\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AppsKanbanBoard\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthLockScreen\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthLogin\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthRecoverpw\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\AuthRegister\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Calendar\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsApex\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsChartjs\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsFlot\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsKnob\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\ChartsSparkline\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceAddProduct\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCart\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCheckout\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCustomers\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceOrders\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceProductDetail\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceProducts\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceShops\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EmailInbox\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\EmailRead\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormAdvanced\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormEditors\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormElements\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormMask\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormUploads\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormValidation\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormWizard\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\FormXeditable\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsDripicons\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsFontawesome\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsMaterialdesign\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\IconsRemix\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsBoxed\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsColoredSidebar\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsCompactSidebar\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriBoxedWidth\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriColoredHeader\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriPreloader\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriScrollable\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriTopbarLight\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHorizontal\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsIconSidebar\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsLightSidebar\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsPreloader\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\MapsGoogle\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\MapsVector\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Pages404\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\Pages500\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesComingsoon\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesFaqs\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesMaintenance\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesPricing\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesStarter\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\PagesTimeline\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesBasic\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesDatatable\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesEditable\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\TablesResponsive\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiAlerts\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiButtons\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiCards\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiCarousel\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiDropdowns\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiGeneral\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiGrid\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiImages\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiLightbox\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiModals\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiNotifications\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiOffcanvas\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiProgressbars\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiRangeslider\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiRating\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiRoundslider\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiSessionTimeout\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiSweetAlert\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiTabsAccordions\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiTypography\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\UiVideo\Index.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Error.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_boxed.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_colored_sidebar.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_compact_sidebar.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_boxed.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_colored.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_topbarlight.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_icon_sidebar.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_light_sidebar.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_preloader.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_BlankLayout.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_footer.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_head_css.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_horizontal.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_Layout.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_page_title.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_right_sidebar.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_sidebar.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_title_meta.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_topbar.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_vendor_scripts.cshtml.g.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorTargetAssemblyInfo.cache
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.RazorTargetAssemblyInfo.cs
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.Views.pdb
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.dll
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\ref\Nazox.dll
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.pdb
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.genruntimeconfig.cache
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.csproj.CopyComplete
+F:\trial\template\nazox\nazox Asp.net Core\Nazox\Nazox\obj\Debug\net5.0\Nazox.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\appsettings.json
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Nazox.StaticWebAssets.xml
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Nazox.exe
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Nazox.deps.json
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Nazox.runtimeconfig.json
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Nazox.runtimeconfig.dev.json
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Nazox.dll
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Nazox.pdb
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Nazox.Views.dll
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Nazox.Views.pdb
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.RazorAssemblyInfo.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.RazorAssemblyInfo.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\scopedcss\bundle\Nazox.styles.css
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\staticwebassets\Nazox.StaticWebAssets.Manifest.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.TagHelpers.input.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.TagHelpers.output.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.RazorCoreGenerate.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\AppsChat\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\AppsKanbanBoard\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\AuthLockScreen\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\AuthLogin\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\AuthRecoverpw\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\AuthRegister\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\Calendar\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\ChartsApex\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\ChartsChartjs\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\ChartsFlot\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\ChartsKnob\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\ChartsSparkline\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceAddProduct\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCart\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCheckout\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceCustomers\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceOrders\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceProductDetail\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceProducts\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\EcommerceShops\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\EmailInbox\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\EmailRead\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\FormAdvanced\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\FormEditors\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\FormElements\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\FormMask\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\FormUploads\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\FormValidation\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\FormWizard\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\FormXeditable\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\IconsDripicons\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\IconsFontawesome\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\IconsMaterialdesign\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\IconsRemix\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsBoxed\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsColoredSidebar\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsCompactSidebar\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriBoxedWidth\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriColoredHeader\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriPreloader\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriScrollable\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHoriTopbarLight\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsHorizontal\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsIconSidebar\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsLightSidebar\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\LayoutsPreloader\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\MapsGoogle\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\MapsVector\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\Pages404\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\Pages500\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\PagesComingsoon\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\PagesFaqs\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\PagesMaintenance\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\PagesPricing\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\PagesStarter\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\PagesTimeline\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\TablesBasic\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\TablesDatatable\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\TablesEditable\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\TablesResponsive\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiAlerts\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiButtons\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiCards\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiCarousel\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiDropdowns\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiGeneral\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiGrid\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiImages\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiLightbox\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiModals\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiNotifications\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiOffcanvas\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiProgressbars\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiRangeslider\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiRating\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiRoundslider\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiSessionTimeout\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiSweetAlert\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiTabsAccordions\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiTypography\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\UiVideo\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Error.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_boxed.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_colored_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_compact_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_boxed.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_colored.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_topbarlight.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_icon_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_light_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_preloader.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_BlankLayout.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_footer.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_head_css.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_horizontal.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_Layout.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_page_title.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_right_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_title_meta.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_topbar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_vendor_scripts.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.RazorTargetAssemblyInfo.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.RazorTargetAssemblyInfo.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.Views.pdb
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.dll
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\refint\Nazox.dll
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.pdb
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.genruntimeconfig.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\ref\Nazox.dll
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Nazox.csproj.CopyComplete

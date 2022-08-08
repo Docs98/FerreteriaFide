@@ -1,0 +1,63 @@
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\appsettings.json
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Ferreteria Fide.exe
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Ferreteria Fide.deps.json
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Ferreteria Fide.runtimeconfig.json
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Ferreteria Fide.runtimeconfig.dev.json
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Ferreteria Fide.dll
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Ferreteria Fide.pdb
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Ferreteria Fide.Views.dll
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\bin\Debug\net5.0\Ferreteria Fide.Views.pdb
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.RazorAssemblyInfo.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.RazorAssemblyInfo.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\scopedcss\bundle\Ferreteria Fide.styles.css
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\staticwebassets\Ferreteria Fide.StaticWebAssets.Manifest.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.TagHelpers.input.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.TagHelpers.output.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.RazorCoreGenerate.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\AuthLogin\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\AuthRegister\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Error.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_boxed.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_colored_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_compact_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_boxed.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_colored.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_horizontal_topbarlight.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_icon_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_light_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\Layouts\_layout_preloader.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_BlankLayout.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_footer.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_head_css.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_horizontal.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_Layout.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_page_title.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_right_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_sidebar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_title_meta.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_topbar.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\_Shared\_vendor_scripts.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.RazorTargetAssemblyInfo.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.RazorTargetAssemblyInfo.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.Views.pdb
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.dll
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\refint\Ferreteria Fide.dll
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.pdb
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.genruntimeconfig.cache
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\ref\Ferreteria Fide.dll
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Ferreteria Fide.csproj.CopyComplete
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\Productos\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\Marca\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\Provedores\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\Usuarios\Index.cshtml.g.cs
+C:\Users\dougl\OneDrive\Escritorio\Nazox_Asp.net_v1.0.0 - copia\Nazox Asp.net Core\Nazox\obj\Debug\net5.0\Razor\Views\RegistrarProductos\Index.cshtml.g.cs

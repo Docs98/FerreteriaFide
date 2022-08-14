@@ -1959,19 +1959,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\dougl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\Nazox\\Ferreteria Fide.csproj",
+      "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\Nazox\\Ferreteria Fide.csproj",
       "projectName": "Ferreteria Fide",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\Nazox\\Ferreteria Fide.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\Nazox\\obj\\",
+      "projectPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\Nazox\\Ferreteria Fide.csproj",
+      "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\Nazox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1985,8 +1985,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj"
+            "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj": {
+              "projectPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj"
             }
           }
         }
@@ -2030,7 +2030,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

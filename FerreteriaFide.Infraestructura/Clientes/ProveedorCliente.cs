@@ -1,7 +1,6 @@
 ﻿using FerreteriaFide.Aplicacion.Contratos;
 using FerreteriaFide.Domain.Models;
 using FerreteriaFide.Infraestructura.Data;
-using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,21 +9,22 @@ using System.Threading.Tasks;
 
 namespace FerreteriaFide.Infraestructura.Clientes
 {
-    public class ProductosCliente : IProducto
+    public class ProveedorCliente : IProveedores
     {
         ApplicationDbContext _dbContext;
-        public ProductosCliente(ApplicationDbContext dbContext)
+        public ProveedorCliente(ApplicationDbContext dbContext)
         {
             _dbContext = dbContext;
         }
-        public Producto GetProducto(int IdProducto)
+
+        public List<Proveedor> GetAllProveedores()
         {
-            return _dbContext.productos.FirstOrDefault(x => x.IdProducto == IdProducto);
+            return _dbContext.proveedor.ToList();
         }
 
-        public List<Producto> GetProductos()
+        public Proveedor GetProveedor(int IdProveedor)
         {
-            return _dbContext.productos.Include(x => x.marca).ToList();
+            return _dbContext.proveedor.FirstOrDefault(x => x.IdProveedor == IdProveedor);
         }
     }
 }

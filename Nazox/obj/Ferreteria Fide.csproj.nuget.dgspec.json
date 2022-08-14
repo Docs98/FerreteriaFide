@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\Nazox\\Ferreteria Fide.csproj": {}
+    "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\Nazox\\Ferreteria Fide.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Aplicacion\\FerreteriaFide.Aplicacion.csproj": {
+    "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Aplicacion\\FerreteriaFide.Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Aplicacion\\FerreteriaFide.Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Aplicacion\\FerreteriaFide.Aplicacion.csproj",
         "projectName": "FerreteriaFide.Aplicacion",
-        "projectPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Aplicacion\\FerreteriaFide.Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Aplicacion\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Aplicacion\\FerreteriaFide.Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj": {
-                "projectPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj"
+              "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj"
               }
             }
           }
@@ -61,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -70,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj": {
+    "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj",
         "projectName": "FerreteriaFide.Domain",
-        "projectPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj",
-        "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Domain\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -135,7 +136,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -144,21 +146,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj": {
+    "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj",
         "projectName": "FerreteriaFide.Infraestructura",
-        "projectPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj",
-        "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Infraestructura\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Infraestructura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -172,11 +174,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Aplicacion\\FerreteriaFide.Aplicacion.csproj": {
-                "projectPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Aplicacion\\FerreteriaFide.Aplicacion.csproj"
+              "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Aplicacion\\FerreteriaFide.Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Aplicacion\\FerreteriaFide.Aplicacion.csproj"
               },
-              "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj": {
-                "projectPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj"
+              "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Domain\\FerreteriaFide.Domain.csproj"
               }
             }
           }
@@ -212,7 +214,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -221,21 +224,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\Nazox\\Ferreteria Fide.csproj": {
+    "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\Nazox\\Ferreteria Fide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\Nazox\\Ferreteria Fide.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\Nazox\\Ferreteria Fide.csproj",
         "projectName": "Ferreteria Fide",
-        "projectPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\Nazox\\Ferreteria Fide.csproj",
-        "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\Nazox\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\Nazox\\Ferreteria Fide.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\Nazox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -249,8 +252,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj": {
-                "projectPath": "C:\\Users\\dougl\\source\\repos\\FerreteriaFide\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj"
+              "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj"
               }
             }
           }
@@ -285,7 +288,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.7, )"
+              "version": "[6.0.8, )"
             }
           },
           "imports": [
@@ -294,7 +297,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -306,7 +310,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

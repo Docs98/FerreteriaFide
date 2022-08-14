@@ -1,0 +1,5 @@
+﻿@model FerreteriaFide.Domain.Models.Marca
+<div class="form-group col-sm-10">
+    @Html.DropDownListFor(m => m.IdMarca, new SelectList(ViewBag.Marcas, "Value", "Text"),
+    "Selecciona la Marca", new { @id = "SelectMarca", @class = "form-control"})
+</div>

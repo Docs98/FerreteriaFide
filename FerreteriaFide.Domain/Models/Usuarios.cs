@@ -1,4 +1,5 @@
 ﻿using IdentityModel;
+using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace FerreteriaFide.Domain.Models
 {
-    public class Usuarios
+    public class Usuarios : IdentityUser
     {
         [Key]
         public int Cedula { get; set; }

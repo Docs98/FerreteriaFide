@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BPhuR5OhnzThdwyifV7uj57YGjadg6PC5ckYA+fGZcYZZXtxz/bGVb3lD3/09hWDD45Ux/S2dJ4N6fOcVgH3fg==",
+  "dgSpecHash": "ab9KODZbw5PwDv+fM/TOe6vqbeRvG8X0j5tKL33WJ5IQiWk7NXm0/kekt8+eADSnH1fhZApuyJcuHOT+IAyaRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\Nazox\\Ferreteria Fide.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",

@@ -15,19 +15,6 @@
           }
         }
       },
-      "IdentityModel/6.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/IdentityModel.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/IdentityModel.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
       "MessagePack/2.1.152": {
         "type": "package",
         "dependencies": {
@@ -3641,51 +3628,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "FerreteriaFide.Aplicacion/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "FerreteriaFide.Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.7"
-        },
-        "compile": {
-          "bin/placeholder/FerreteriaFide.Aplicacion.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FerreteriaFide.Aplicacion.dll": {}
-        }
-      },
-      "FerreteriaFide.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "IdentityModel": "6.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.7",
-          "Microsoft.Extensions.Identity.Stores": "6.0.7"
-        },
-        "compile": {
-          "bin/placeholder/FerreteriaFide.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FerreteriaFide.Domain.dll": {}
-        }
-      },
-      "FerreteriaFide.Infraestructura/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "FerreteriaFide.Aplicacion": "1.0.0",
-          "FerreteriaFide.Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "6.0.7",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.7"
-        },
-        "compile": {
-          "bin/placeholder/FerreteriaFide.Infraestructura.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FerreteriaFide.Infraestructura.dll": {}
-        }
       }
     }
   },
@@ -3704,33 +3646,6 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
-      ]
-    },
-    "IdentityModel/6.0.0": {
-      "sha512": "eVHCR7a6m/dm5RFcBzE3qs/Jg5j9R5Rjpu8aTOv9e4AFvaQtBXb5ah7kmwU+YwA0ufRwz4wf1hnIvsD2hSnI4g==",
-      "type": "package",
-      "path": "identitymodel/6.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "icon.jpg",
-        "identitymodel.6.0.0.nupkg.sha512",
-        "identitymodel.nuspec",
-        "lib/net461/IdentityModel.dll",
-        "lib/net461/IdentityModel.pdb",
-        "lib/net461/IdentityModel.xml",
-        "lib/net472/IdentityModel.dll",
-        "lib/net472/IdentityModel.pdb",
-        "lib/net472/IdentityModel.xml",
-        "lib/net5.0/IdentityModel.dll",
-        "lib/net5.0/IdentityModel.pdb",
-        "lib/net5.0/IdentityModel.xml",
-        "lib/net6.0/IdentityModel.dll",
-        "lib/net6.0/IdentityModel.pdb",
-        "lib/net6.0/IdentityModel.xml",
-        "lib/netstandard2.0/IdentityModel.dll",
-        "lib/netstandard2.0/IdentityModel.pdb",
-        "lib/netstandard2.0/IdentityModel.xml"
       ]
     },
     "MessagePack/2.1.152": {
@@ -10358,26 +10273,10 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "FerreteriaFide.Aplicacion/1.0.0": {
-      "type": "project",
-      "path": "../FerreteriaFide.Aplicacion/FerreteriaFide.Aplicacion.csproj",
-      "msbuildProject": "../FerreteriaFide.Aplicacion/FerreteriaFide.Aplicacion.csproj"
-    },
-    "FerreteriaFide.Domain/1.0.0": {
-      "type": "project",
-      "path": "../FerreteriaFide.Domain/FerreteriaFide.Domain.csproj",
-      "msbuildProject": "../FerreteriaFide.Domain/FerreteriaFide.Domain.csproj"
-    },
-    "FerreteriaFide.Infraestructura/1.0.0": {
-      "type": "project",
-      "path": "../FerreteriaFide.Infraestructura/FerreteriaFide.Infraestructura.csproj",
-      "msbuildProject": "../FerreteriaFide.Infraestructura/FerreteriaFide.Infraestructura.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "FerreteriaFide.Infraestructura >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.7",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.7",
@@ -10411,11 +10310,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Ferreteria_Fide\\Nazox Asp.net Core\\FerreteriaFide.Infraestructura\\FerreteriaFide.Infraestructura.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

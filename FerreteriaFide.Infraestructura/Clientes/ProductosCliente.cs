@@ -17,6 +17,12 @@ namespace FerreteriaFide.Infraestructura.Clientes
         {
             _dbContext = dbContext;
         }
+
+        public void AddProducto(Producto producto)
+        {
+            _dbContext.productos.Add(producto);
+        }
+
         public Producto GetProducto(int IdProducto)
         {
             return _dbContext.productos.FirstOrDefault(x => x.IdProducto == IdProducto);

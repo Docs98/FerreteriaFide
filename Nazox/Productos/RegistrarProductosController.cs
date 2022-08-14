@@ -50,7 +50,7 @@ namespace Ferreteria_Fide.Productos
         }
         public IActionResult agregar(Producto producto)
         {
-
+            new FerreteriaFide.Infraestructura.Clientes.ProductosCliente(_dbContext).AddProducto(producto);
             return View(producto);
         }
     }

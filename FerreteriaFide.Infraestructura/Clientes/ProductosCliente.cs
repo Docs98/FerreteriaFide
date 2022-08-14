@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace FerreteriaFide.Infraestructura.Clientes
 {
-    internal class ProductosCliente : IProducto
+    public class ProductosCliente : IProducto
     {
         ApplicationDbContext _dbContext;
         public ProductosCliente(ApplicationDbContext dbContext)
@@ -24,7 +24,7 @@ namespace FerreteriaFide.Infraestructura.Clientes
 
         public List<Producto> GetProductos()
         {
-            throw new NotImplementedException();
+            return _dbContext.productos.Include(x => x.marca).ToList();
         }
     }
 }

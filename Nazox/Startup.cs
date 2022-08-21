@@ -25,10 +25,13 @@ namespace Nazox
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddRazorPages();
 
+            services.AddRazorPages();
+           // string connectionString = Configuration.GetConnectionString("Default");
+           // services.AddDbContextPool<ApplicationDbContext>(options =>
+           // options.UseSqlServer(connectionString));
             services.AddDbContextPool<ApplicationDbContext>
-                (options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
+            (options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
         }
 
         

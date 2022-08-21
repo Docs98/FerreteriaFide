@@ -17,7 +17,10 @@ namespace FerreteriaFide.Infraestructura.Clientes
         {
             _dbContext = dbContext;
         }
-
+        public void AddProveedor(Proveedor proveedor)
+        {
+            _dbContext.proveedor.Add(proveedor);
+        }
         public List<Proveedor> GetAllProveedores()
         {
             return _dbContext.proveedor.ToList();

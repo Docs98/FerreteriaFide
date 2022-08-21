@@ -20,10 +20,9 @@ namespace Ferreteria_Fide.Marcas
         public IActionResult Index()
         {
 
-            List<Marca> listMarca = new List<Marca>();
-            listMarca = new FerreteriaFide.Infraestructura.Clientes.MarcasClientes(_context).GetMarca();
+            List<FerreteriaFide.Domain.Models.Marca> listMarca = new List<FerreteriaFide.Domain.Models.Marca>();
+            listMarca = new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).GetAllMarcas();
             return View(listMarca);
-            return View();
         }
     }
 }

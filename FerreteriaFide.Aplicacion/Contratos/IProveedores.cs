@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace FerreteriaFide.Aplicacion.Contratos
 {
-    public interface IProducto
+    public interface IProveedores
     {
-        List<Producto> GetProductos();
-        Producto GetProducto(int IdProducto);
+        List<Proveedor> GetAllProveedores();
 
-        void AddProducto(Producto producto);
+        Proveedor GetProveedor(int IdProveedor);
+
     }
 }

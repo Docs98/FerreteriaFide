@@ -27,11 +27,11 @@ namespace Nazox
         {
 
             services.AddRazorPages();
-           // string connectionString = Configuration.GetConnectionString("Default");
-           // services.AddDbContextPool<ApplicationDbContext>(options =>
-           // options.UseSqlServer(connectionString));
-            services.AddDbContextPool<ApplicationDbContext>
-            (options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
+            string connectionString = Configuration.GetConnectionString("Default");
+            services.AddDbContextPool<ApplicationDbContext>(options =>
+            options.UseSqlServer(connectionString));
+            //services.AddDbContextPool<ApplicationDbContext>
+            //(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
         }
 
         
@@ -64,7 +64,7 @@ namespace Nazox
             {
                 endpoints.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Productos}/{action=Index}/{id?}");
+                pattern: "{controller=AuthLogin}/{action=Index}/{id?}");
             });
         }
     }

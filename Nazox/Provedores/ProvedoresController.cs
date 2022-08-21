@@ -21,7 +21,7 @@ namespace Ferreteria_Fide.Provedores
         {
 
             List<Proveedor> listprov = new List<Proveedor>();
-            listprov = new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).GetProveedores();
+            listprov = new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).GetAllProveedores();
             return View(listprov);
         }
     }

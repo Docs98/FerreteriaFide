@@ -7,13 +7,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ferreteria_Fide.Marcas
+namespace Ferreteria_Fide.Marca
 {
-    public class MarcasController : Controller
+    public class MarcaController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public MarcasController(ApplicationDbContext context)
+        public MarcaController(ApplicationDbContext context)
         {
             _context = context;
         }

@@ -11,5 +11,7 @@ namespace FerreteriaFide.Aplicacion.Contratos
     {
         List<Producto> GetProductos();
         Producto GetProducto(int IdProducto);
+
+        void AddProducto(Producto producto);
     }
 }

@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 
 namespace FerreteriaFide.Aplicacion.Contratos
 {
-    public interface IMarca
+    public interface IProveedores
     {
-        List<Marca> GetAllMarcas();
+        List<Proveedor> GetAllProveedores();
 
-        Marca GetMarca(int IdMarca);
+        Proveedor GetProveedor(int IdProveedor);
+
     }
 }

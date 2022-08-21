@@ -1,4 +1,5 @@
-﻿@{
+﻿@model FerreteriaFide.Domain.Models.Producto
+@{
     ViewBag.Title = "Registrar Productos";
     ViewBag.pTitle = "Registrar Productos";
     ViewBag.pageTitle = "Ferreteria Fide";
@@ -13,41 +14,45 @@
                 <form class="custom-validation" action="#">
                     <div class="mb-3">
                         <label>Nombre del producto</label>
-                        <input type="text" class="form-control" required placeholder="Digite el nombre del producto" />
+                        @Html.TextBoxFor(u => u.Nombre, new {@class = "form-control", placeholder = "Digite el nombre del producto" })
                     </div>
 
                     <div class="mb-3">
                         <label>Categoria del producto</label>
                         <div>
-                             <input type="text" class="form-control" required placeholder="Digite la categoria del producto" />
+                            @Html.TextBoxFor(u => u.Nombre, new {@class = "form-control", placeholder = "Digite el nombre del producto" })
                         </div>
                     </div>
                      <div class="mb-3">
                         <label>Cantidad del producto disponible</label>
                         <div>
-                            <input data-parsley-type="number" type="text"
-                                   class="form-control" required
-                                   placeholder="Digitar solo numeros" />
+                            @Html.TextBoxFor(u => u.CantidadDisponible, new {@class = "form-control", placeholder = "Digite el nombre del producto",type="number" })
                         </div>
                     </div>
                     <div class="mb-3">
                         <label>Precio del producto</label>
                         <div>
-                            <input data-parsley-type="number" type="text"
-                                   class="form-control" required
-                                   placeholder="Digitar solo numeros" />
+                            @Html.TextBoxFor(u => u.Precio, new {@class = "form-control", placeholder = "Digitar solo numeros",type="number" })
                         </div>
                     </div>
                     <div class="mb-3">
                         <label>Descripcion</label>
                         <div>
-                            <textarea required class="form-control" rows="5"></textarea>
+                            @Html.TextBoxFor(u => u.Descripcion, new {@class = "form-control"})
                         </div>
+                    </div>
+                    <div class="mb-3">
+                        <label>Marcas</label>
+                        @Html.Partial("_ComboMarcas", new FerreteriaFide.Domain.Models.Marca())
+                    </div>
+                    <div class="mb-3">
+                        <label>Proveedores</label>
+                        @Html.Partial("_ComboProveedores", new FerreteriaFide.Domain.Models.Proveedor())
                     </div>
                     <div class="mb-0">
                         <div>
-                            <button type="submit" class="btn btn-primary waves-effect waves-light me-1">
-                                Registrar 
+                            <button type="submit" class="btn btn-primary waves-effect waves-light me-1" formaction=@Url.Action("agregar","RegistrarProductos") formmethod="post">
+                                Registrar
                             </button>
                             <button type="reset" class="btn btn-secondary waves-effect">
                                 Cancel

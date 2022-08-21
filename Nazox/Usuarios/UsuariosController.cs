@@ -1,4 +1,5 @@
 ﻿using FerreteriaFide.Infraestructura.Data;
+using FerreteriaFide.Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -18,7 +19,9 @@ namespace Ferreteria_Fide.Usuarios
         }
         public IActionResult Index()
         {
-            return View();
+            List< FerreteriaFide.Domain.Models.Usuarios > listprov = new List<FerreteriaFide.Domain.Models.Usuarios>();
+            listprov = new FerreteriaFide.Infraestructura.Clientes.UsuariosCliente(_context).GetAllUsuarios();
+            return View(listprov);
         }
     }
 }

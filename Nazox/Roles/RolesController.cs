@@ -18,7 +18,9 @@ namespace Ferreteria_Fide.Roles
         }
         public IActionResult Index()
         {
-            return View();
+            List<FerreteriaFide.Domain.Models.Roles> listprov = new List<FerreteriaFide.Domain.Models.Roles>();
+            listprov = new FerreteriaFide.Infraestructura.Clientes.RolesClientes(_context).GetAllRoles();
+            return View(listprov);
         }
     }
 }

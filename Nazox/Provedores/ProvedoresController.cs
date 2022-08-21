@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using FerreteriaFide.Domain.Models;
+using FerreteriaFide.Infraestructura.Data;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +11,18 @@ namespace Ferreteria_Fide.Provedores
 {
     public class ProvedoresController : Controller
     {
+        private readonly ApplicationDbContext _context;
+
+        public ProvedoresController(ApplicationDbContext context)
+        {
+            _context = context;
+        }
         public IActionResult Index()
         {
-            return View();
+
+            List<Proveedor> listprov = new List<Proveedor>();
+            listprov = new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).GetProveedores();
+            return View(listprov);
         }
     }
 }

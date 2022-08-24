@@ -48,10 +48,12 @@ namespace Ferreteria_Fide.Productos
 
             return View();
         }
-        public IActionResult agregar(Producto producto)
+        public IActionResult agregar(Producto producto, FerreteriaFide.Domain.Models.Marca marca,Proveedor proveedor)
         {
+            producto.marca = marca;
+            producto.proveedor = proveedor;
             new FerreteriaFide.Infraestructura.Clientes.ProductosCliente(_dbContext).AddProducto(producto);
-            return View(producto);
+            return RedirectToAction("Index", "RegistrarProductos");
         }
     }
 }

@@ -18,15 +18,11 @@ namespace FerreteriaFide.Domain.Models
         public string Descripcion { get; set; }
 
         [Required]
-        public int IdMarca { get; set; }
-        [Required]
         public string Categoria { get; set; }
         [Required]
         public int CantidadDisponible { get; set; }
         [Required]
         public double Precio { get; set; }
-        [Required]
-        public int IdProveedor { get; set; }
 
         public Proveedor proveedor { get; set; }
         public Marca marca { get; set; }

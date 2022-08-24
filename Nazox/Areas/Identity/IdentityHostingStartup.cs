@@ -17,7 +17,7 @@ namespace Ferreteria_Fide.Areas.Identity
             builder.ConfigureServices((context, services) => {
                 services.AddDbContext<Ferreteria_FideContext>(options =>
                     options.UseSqlServer(
-                        context.Configuration.GetConnectionString("Ferreteria_FideContextConnection")));
+                        context.Configuration.GetConnectionString("Default")));
 
                 services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                     .AddEntityFrameworkStores<Ferreteria_FideContext>();

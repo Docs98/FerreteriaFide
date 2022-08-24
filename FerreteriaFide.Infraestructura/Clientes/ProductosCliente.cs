@@ -21,6 +21,7 @@ namespace FerreteriaFide.Infraestructura.Clientes
         public void AddProducto(Producto producto)
         {
             _dbContext.productos.Add(producto);
+            _dbContext.SaveChanges();
         }
 
         public Producto GetProducto(int IdProducto)

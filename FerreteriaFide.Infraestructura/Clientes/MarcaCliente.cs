@@ -21,9 +21,25 @@ namespace FerreteriaFide.Infraestructura.Clientes
             return _dbContext.marca.ToList();
         }
 
+        public void AddMarca(Marca marca)
+        {
+            _dbContext.marca.Add(marca);
+            SaveChanges();
+        }
+
         public Marca GetMarca(int IdMarca)
         {
             return _dbContext.marca.FirstOrDefault(x => x.IdMarca == IdMarca);
+        }
+
+        public bool SaveChanges()
+        {
+            
+            if (_dbContext.SaveChanges() != null)
+            {
+                return true;
+            }
+            return false;
         }
     }
 }

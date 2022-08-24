@@ -1,4 +1,5 @@
-﻿@{
+﻿@model FerreteriaFide.Domain.Models.Marca
+@{
     ViewBag.Title = "Registrar Marca";
     ViewBag.pTitle = "Registrar Marca";
     ViewBag.pageTitle = "Ferreteria Fide";
@@ -16,12 +17,13 @@
                     <div class="mb-3">
                         <label>Nombre de la Marca</label>
                         <div>
-                             <input type="text" class="form-control" required placeholder="Digite el nombre de la marca" />
+                            @Html.TextBoxFor(u => u.Nombre, new {@class = "form-control", placeholder = "Digite el nombre de la marca" })
+                            
                         </div>
                     </div>
                     <div class="mb-0">
                         <div>
-                            <button type="submit" class="btn btn-primary waves-effect waves-light me-1">
+                            <button type="submit" formaction=@Url.Action("Create","RegistrarMarca") formmethod="post" class="btn btn-primary waves-effect waves-light me-1">
                                 Registrar
                             </button>
                             <button type="reset" class="btn btn-secondary waves-effect">

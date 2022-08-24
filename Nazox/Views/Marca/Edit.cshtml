@@ -5,14 +5,22 @@
     ViewBag.pageTitle = "Ferreteria Fide";
     Layout = "~/Views/_Shared/_Layout.cshtml";
 }
-<!-- jquery.vectormap css -->
-<link href="~/assets/libs/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.css" rel="stylesheet" type="text/css" />
-
-<!-- DataTables -->
-<link href="~/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
-
-<!-- Responsive datatable examples -->
-<link href="~/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="~/assets/css/open-iconic-bootstrap.min.css">
+<link rel="stylesheet" href="~/assets/css/animate.css">
+<link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="~/assets/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="~/assets/css/magnific-popup.css">
+@*<link rel="stylesheet" href="~/assets/css/aos.css">*@
+<link rel="stylesheet" href="~/assets/css/ionicons.min.css">
+<link rel="stylesheet" href="~/assets/css/icons.min.css">
+<link rel="stylesheet" href="~/assets/css/bootstrap-datepicker.css">
+<link rel="stylesheet" href="~/assets/css/jquery.timepicker.css">
+<link rel="stylesheet" href="~/assets/css/flaticon.css">
+<link rel="stylesheet" href="~/assets/css/icomoon.css">
+<link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/assets/css/app.min.css">
+<link rel="stylesheet" href="~/assets/css/style.css">
 
 <div class="row">
     <div class="col-xl-6">
@@ -23,6 +31,7 @@
 
 
                     <div class="mb-3">
+                        <input type="hidden" asp-for="IdMarca" />
                         <label>Nombre de la Marca</label>
                         <div>
                             @Html.TextBoxFor(u => u.Nombre, new {@class = "form-control", placeholder = "Digite el nombre de la marca" })
@@ -31,12 +40,10 @@
                     </div>
                     <div class="mb-0">
                         <div>
-                            <button type="submit" formaction=@Url.Action("Edit","RegistrarMarca") formmethod="post" class="btn btn-primary waves-effect waves-light me-1">
-                                Registrar
-                            </button>
-                            <button type="reset" class="btn btn-secondary waves-effect">
-                                Cancel
-                            </button>
+                            <button type="submit" formaction=@Url.Action("UpdateMarca","Marca") formmethod="post" class="btn btn-primary waves-effect waves-light me-1">
+                                Guardar cambios
+                            </button> |
+                            <a asp-action="Index">Regresar a la lista de marcas</a>
                         </div>
                     </div>
                 </form>
@@ -71,6 +78,3 @@
 <script src="~/assets/libs/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js"></script>
 
 <script src="~/assets/js/pages/dashboard.init.js"></script>
-
-<!-- App js -->
-<script src="~/assets/js/app.js"></script>

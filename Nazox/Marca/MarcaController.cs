@@ -29,8 +29,55 @@ namespace Ferreteria_Fide.Marca
         public IActionResult Edit(int id)
         {
             var marca = new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).GetMarca(id);
-            return RedirectToAction("Index", "EditarMarca",marca);
+            
+            return View(marca);
         }
-        
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(FerreteriaFide.Domain.Models.Marca marca)
+        {
+            if (ModelState.IsValid)
+            {
+                new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).AddMarca(marca);
+                return RedirectToAction("Index", "Marca");
+            }
+            return RedirectToAction("Index", "RegistrarMarca");
+        }
+
+        [HttpPost]
+        public IActionResult UpdateMarca(FerreteriaFide.Domain.Models.Marca marca)
+        {
+            if (ModelState.IsValid)
+            {
+                new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).EditMarca(marca);
+                return RedirectToAction("Index", "Marca");
+            }
+            return RedirectToAction("Index", "RegistrarMarca");
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var marca = new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).GetMarca(id);
+
+            return View(marca);
+        }
+
+        [HttpPost]
+        public IActionResult DeleteMarca(int idMarca)
+        {
+            if (ModelState.IsValid)
+            {
+                new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).DeleteMarca(idMarca);
+                return RedirectToAction("Index", "Marca");
+            }
+            return RedirectToAction("Index", "RegistrarMarca");
+        }
+
     }
 }

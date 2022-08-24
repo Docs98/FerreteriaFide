@@ -31,5 +31,6 @@ namespace Ferreteria_Fide.Marca
             }
             return RedirectToAction("Index", "RegistrarMarca");
         }
+        
     }
 }

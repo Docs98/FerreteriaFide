@@ -24,5 +24,13 @@ namespace Ferreteria_Fide.Marca
             listMarca = new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).GetAllMarcas();
             return View(listMarca);
         }
+
+        [HttpGet]
+        public IActionResult Edit(int id)
+        {
+            var marca = new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).GetMarca(id);
+            return RedirectToAction("Index", "EditarMarca",marca);
+        }
+        
     }
 }

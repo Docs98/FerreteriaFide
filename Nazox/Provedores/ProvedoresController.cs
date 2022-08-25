@@ -45,7 +45,7 @@ namespace Ferreteria_Fide.Provedores
                 new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).AddProveedor(provedor);
                 return RedirectToAction("Index", "Provedores");
             }
-            return RedirectToAction("Create", "Provedores");
+            return RedirectToAction("Create");
         }
 
         [HttpPost]
@@ -56,7 +56,7 @@ namespace Ferreteria_Fide.Provedores
                 new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).EditProveedor(provedor);
                 return RedirectToAction("Index", "Provedores");
             }
-            return RedirectToAction("Create", "Provedores");
+            return RedirectToAction("Edit");
         }
 
             [HttpGet]
@@ -75,7 +75,7 @@ namespace Ferreteria_Fide.Provedores
                 new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).DeleteProveedor(idProveedor);
                 return RedirectToAction("Index", "Provedores");
             }
-            return RedirectToAction("Create", "Provedores");
+            return RedirectToAction("Delete");
         }
 
     }

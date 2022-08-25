@@ -29,7 +29,7 @@
 
 
                 <form class="custom-validation" action="#">
-
+                    <input type="hidden" asp-for="IdRol" />
                     <div class="mb-3">
                         <label> Descripcion</label>
                         @Html.TextBoxFor(u => u.Description, new {@class = "form-control", placeholder = "Digite la descripcion del rol" })
@@ -52,7 +52,7 @@
 
                     <div class="mb-0">
                         <div>
-                            <button type="submit" formaction=@Url.Action("Create","Roles") formmethod="post" class="btn btn-primary waves-effect waves-light me-1">
+                            <button type="submit" formaction=@Url.Action("UpdateRoles","Roles") formmethod="post" class="btn btn-primary waves-effect waves-light me-1">
                                 Registrar
                             </button>
                             <a asp-action="Index">Regresar a la lista de los roles</a>

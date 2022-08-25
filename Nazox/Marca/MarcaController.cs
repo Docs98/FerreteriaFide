@@ -46,7 +46,7 @@ namespace Ferreteria_Fide.Marca
                 new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).AddMarca(marca);
                 return RedirectToAction("Index", "Marca");
             }
-            return RedirectToAction("Index", "RegistrarMarca");
+            return RedirectToAction("Create", "Marca");
         }
 
         [HttpPost]
@@ -57,7 +57,7 @@ namespace Ferreteria_Fide.Marca
                 new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).EditMarca(marca);
                 return RedirectToAction("Index", "Marca");
             }
-            return RedirectToAction("Index", "RegistrarMarca");
+            return RedirectToAction("Edit", "Marca");
         }
 
         [HttpGet]

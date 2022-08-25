@@ -8,9 +8,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MarcaModel = FerreteriaFide.Domain.Models.Marca;
 
 namespace Ferreteria_Fide.Productos
 {
+
     public class ProductosController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -30,6 +32,29 @@ namespace Ferreteria_Fide.Productos
         public IActionResult Edit(int id)
         {
             var producto = new FerreteriaFide.Infraestructura.Clientes.ProductosCliente(_context).GetProducto(id);
+            List<SelectListItem> comboMarcas = new List<SelectListItem>();
+            var listaMarcas = new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).GetAllMarcas();
+            foreach (var item in listaMarcas)
+            {
+                comboMarcas.Add(new SelectListItem
+                {
+                    Text = item.Nombre,
+                    Value = item.IdMarca.ToString()
+                });
+            }
+            ViewBag.Marcas = comboMarcas;
+            // combo de proveedores
+            List<SelectListItem> comboProveedores = new List<SelectListItem>();
+            var listaProveedores = new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).GetAllProveedores();
+            foreach (var item in listaProveedores)
+            {
+                comboProveedores.Add(new SelectListItem
+                {
+                    Text = item.Nombre,
+                    Value = item.IdProveedor.ToString()
+                });
+            }
+            ViewBag.Proveedores = comboProveedores;
 
             return View(producto);
         }
@@ -67,9 +92,11 @@ namespace Ferreteria_Fide.Productos
         }
 
         [HttpPost]
-        public IActionResult Create(Producto producto)
+        public IActionResult Create(Producto producto,MarcaModel marca,Proveedor proveedor)
         {
-            if (ModelState.IsValid)
+            producto.marca = new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).GetMarca(marca.IdMarca);
+            producto.proveedor = new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).GetProveedor(proveedor.IdProveedor);
+            if (producto.marca != null && producto.proveedor != null)
             {
                 new FerreteriaFide.Infraestructura.Clientes.ProductosCliente(_context).AddProducto(producto);
                 return RedirectToAction("Index", "Productos");
@@ -78,9 +105,11 @@ namespace Ferreteria_Fide.Productos
         }
 
         [HttpPost]
-        public IActionResult UpdateProducto(Producto producto)
+        public IActionResult UpdateProducto(Producto producto, MarcaModel marca, Proveedor proveedor)
         {
-            if (ModelState.IsValid)
+            producto.marca = new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).GetMarca(marca.IdMarca);
+            producto.proveedor = new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).GetProveedor(proveedor.IdProveedor);
+            if (producto.marca != null && producto.proveedor != null)
             {
                 new FerreteriaFide.Infraestructura.Clientes.ProductosCliente(_context).EditProducto(producto);
                 return RedirectToAction("Index", "Productos");

@@ -33,20 +33,29 @@ namespace Nazox.Auth
             var usuarioValido = new FerreteriaFide.Infraestructura.Clientes.UsuariosCliente(_context).IsValidUsuario(usuario);
             if (usuarioValido != null)
             {
-                var claims = new List<Claim>
-                {
-                    new Claim(ClaimTypes.Name, usuario.Nombre),
-                    new Claim("Correo", usuario.Email),
-                };
-                claims.Add(new Claim(ClaimTypes.Role, usuario.roles.IdRol.ToString()));
-                
+                var claims =
+                        new[]
+                        {
+                            new Claim("UserId",usuarioValido.Nombre),
+                            new Claim("Email", usuarioValido.Email),
+                            new Claim(ClaimTypes.Role, usuarioValido.roles.IdRol.ToString())
+                        };
+
                 var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
 
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
 
-                return RedirectToAction("Index", "AuthLogin");
+                return RedirectToAction("Index", "Productos");
             }
             return RedirectToAction("Index", "AuthLogin");
         }
+
+        public async Task<IActionResult> Logoff()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Index", "AuthLogin");
+        }
+
+
     }
 }

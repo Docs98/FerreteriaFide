@@ -1,5 +1,6 @@
 ﻿using FerreteriaFide.Domain.Models;
 using FerreteriaFide.Infraestructura.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -9,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace Ferreteria_Fide.Marca
 {
+    [Authorize]
     public class MarcaController : Controller
     {
         private readonly ApplicationDbContext _context;

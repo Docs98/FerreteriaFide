@@ -2877,13 +2877,7 @@ table.dataTable.dtr-inline.collapsed > tbody > tr > td {
     border-left: 16px solid transparent;
     border-bottom: 16px solid #5664d2; }
 
-.jvectormap-label {
-  border: none;
-  background: #eff2f7;
-  color: #212529;
-  font-family: var(--bs-font-sans-serif);
-  font-size: 0.9rem;
-  padding: 5px 8px; }
+
 
 .editable-input .form-control {
   display: inline-block; }

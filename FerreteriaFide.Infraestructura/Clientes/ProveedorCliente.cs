@@ -20,6 +20,7 @@ namespace FerreteriaFide.Infraestructura.Clientes
         public void AddProveedor(Proveedor proveedor)
         {
             _dbContext.proveedor.Add(proveedor);
+            _dbContext.SaveChanges();
         }
         public List<Proveedor> GetAllProveedores()
         {
@@ -33,6 +34,17 @@ namespace FerreteriaFide.Infraestructura.Clientes
         public List<Proveedor> GetProveedores()
         {
             return _dbContext.proveedor.Include(x => x.IdProveedor).ToList();
+        }
+        public void EditProveedor(Proveedor proveedor)
+        {
+            _dbContext.proveedor.Update(proveedor);
+            _dbContext.SaveChanges();
+        }
+
+        public void DeleteProveedor(int idproveedor)
+        {
+            _dbContext.proveedor.Remove(GetProveedor(idproveedor));
+            _dbContext.SaveChanges();
         }
     }
 }

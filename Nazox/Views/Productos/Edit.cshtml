@@ -5,12 +5,28 @@
     ViewBag.pageTitle = "Ferreteria Fide";
     Layout = "~/Views/_Shared/_Layout.cshtml";
 }
+<link rel="stylesheet" href="~/assets/css/open-iconic-bootstrap.min.css">
+<link rel="stylesheet" href="~/assets/css/animate.css">
+<link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="~/assets/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="~/assets/css/magnific-popup.css">
+@*<link rel="stylesheet" href="~/assets/css/aos.css">*@
+<link rel="stylesheet" href="~/assets/css/ionicons.min.css">
+<link rel="stylesheet" href="~/assets/css/icons.min.css">
+<link rel="stylesheet" href="~/assets/css/bootstrap-datepicker.css">
+<link rel="stylesheet" href="~/assets/css/jquery.timepicker.css">
+<link rel="stylesheet" href="~/assets/css/flaticon.css">
+<link rel="stylesheet" href="~/assets/css/icomoon.css">
+<link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/assets/css/app.min.css">
+<link rel="stylesheet" href="~/assets/css/style.css">
 
 <div class="row">
     <div class="col-xl-6">
         <div class="card">
             <div class="card-body">
-                
+
                 <form class="custom-validation" action="#">
                     <div class="mb-3">
                         <label>Nombre del producto</label>
@@ -23,7 +39,7 @@
                             @Html.TextBoxFor(u => u.Nombre, new {@class = "form-control", placeholder = "Digite el nombre del producto" })
                         </div>
                     </div>
-                     <div class="mb-3">
+                    <div class="mb-3">
                         <label>Cantidad del producto disponible</label>
                         <div>
                             @Html.TextBoxFor(u => u.CantidadDisponible, new {@class = "form-control", placeholder = "Digite el nombre del producto",type="number" })
@@ -51,12 +67,10 @@
                     </div>
                     <div class="mb-0">
                         <div>
-                            <button type="submit" class="btn btn-primary waves-effect waves-light me-1" formaction=@Url.Action("agregar","RegistrarProductos") formmethod="post">
-                                Registrar
+                            <button type="submit" formaction=@Url.Action("UpdateProducto","Productos") formmethod="post" class="btn btn-primary waves-effect waves-light me-1">
+                                Editar
                             </button>
-                            <button type="reset" class="btn btn-secondary waves-effect">
-                                Cancel
-                            </button>
+                            <a asp-action="Index">Regresar a la lista de Productos</a>
                         </div>
                     </div>
                 </form>
@@ -66,7 +80,6 @@
     </div> <!-- end col -->
 
 </div> <!-- end row -->
-
 <!-- JAVASCRIPT -->
 <script src="~/assets/libs/jquery/jquery.min.js"></script>
 <script src="~/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>

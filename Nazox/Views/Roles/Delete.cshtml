@@ -1,0 +1,59 @@
+﻿@model FerreteriaFide.Domain.Models.Roles
+@{
+    ViewBag.Title = "Registrar Productos";
+    ViewBag.pTitle = "Registrar Productos";
+    ViewBag.pageTitle = "Ferreteria Fide";
+    Layout = "~/Views/_Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/assets/css/open-iconic-bootstrap.min.css">
+<link rel="stylesheet" href="~/assets/css/animate.css">
+<link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="~/assets/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="~/assets/css/magnific-popup.css">
+@*<link rel="stylesheet" href="~/assets/css/aos.css">*@
+<link rel="stylesheet" href="~/assets/css/ionicons.min.css">
+<link rel="stylesheet" href="~/assets/css/icons.min.css">
+<link rel="stylesheet" href="~/assets/css/bootstrap-datepicker.css">
+<link rel="stylesheet" href="~/assets/css/jquery.timepicker.css">
+<link rel="stylesheet" href="~/assets/css/flaticon.css">
+<link rel="stylesheet" href="~/assets/css/icomoon.css">
+<link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/assets/css/app.min.css">
+<link rel="stylesheet" href="~/assets/css/style.css">
+
+<h1>Eliminar Rol</h1> 
+
+<h3>¿Está seguro que desea eliminar este rol?</h3>
+<div>
+
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Nombre del rol:
+
+        </dt>
+        <dd class="col-sm-10">
+            <b>@Html.DisplayFor(model => model.Puesto)</b>
+        </dd>
+    </dl>
+
+    <form asp-action="DeleteRoles">
+        <input type="hidden" asp-for="IdRol" />
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+        <a asp-action="Index">Regresar a la lista de Roles</a>
+    </form>
+</div>
+<!-- JAVASCRIPT -->
+<script src="~/assets/libs/jquery/jquery.min.js"></script>
+<script src="~/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="~/assets/libs/metismenu/metisMenu.min.js"></script>
+<script src="~/assets/libs/simplebar/simplebar.min.js"></script>
+<script src="~/assets/libs/node-waves/waves.min.js"></script>
+
+<script src="~/assets/libs/parsleyjs/parsley.min.js"></script>
+
+<script src="~/assets/js/pages/form-validation.init.js"></script>
+
+<script src="~/assets/js/app.js"></script>
+

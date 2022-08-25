@@ -1,0 +1,94 @@
+﻿@model FerreteriaFide.Domain.Models.Producto
+@{
+    ViewBag.Title = "Registrar Productos";
+    ViewBag.pTitle = "Registrar Productos";
+    ViewBag.pageTitle = "Ferreteria Fide";
+    Layout = "~/Views/_Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/assets/css/open-iconic-bootstrap.min.css">
+<link rel="stylesheet" href="~/assets/css/animate.css">
+<link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="~/assets/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="~/assets/css/magnific-popup.css">
+@*<link rel="stylesheet" href="~/assets/css/aos.css">*@
+<link rel="stylesheet" href="~/assets/css/ionicons.min.css">
+<link rel="stylesheet" href="~/assets/css/icons.min.css">
+<link rel="stylesheet" href="~/assets/css/bootstrap-datepicker.css">
+<link rel="stylesheet" href="~/assets/css/jquery.timepicker.css">
+<link rel="stylesheet" href="~/assets/css/flaticon.css">
+<link rel="stylesheet" href="~/assets/css/icomoon.css">
+<link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/assets/css/app.min.css">
+<link rel="stylesheet" href="~/assets/css/style.css">
+
+<div class="row">
+    <div class="col-xl-6">
+        <div class="card">
+            <div class="card-body">
+
+                <form class="custom-validation" action="#">
+                    <div class="mb-3">
+                        <label>Nombre del producto</label>
+                        @Html.TextBoxFor(u => u.Nombre, new {@class = "form-control", placeholder = "Digite el nombre del producto" })
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Categoria del producto</label>
+                        <div>
+                            @Html.TextBoxFor(u => u.Nombre, new {@class = "form-control", placeholder = "Digite el nombre del producto" })
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label>Cantidad del producto disponible</label>
+                        <div>
+                            @Html.TextBoxFor(u => u.CantidadDisponible, new {@class = "form-control", placeholder = "Digite el nombre del producto",type="number" })
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label>Precio del producto</label>
+                        <div>
+                            @Html.TextBoxFor(u => u.Precio, new {@class = "form-control", placeholder = "Digitar solo numeros",type="number" })
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label>Descripcion</label>
+                        <div>
+                            @Html.TextBoxFor(u => u.Descripcion, new {@class = "form-control"})
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label>Marcas</label>
+                        @Html.Partial("_ComboMarcas", new FerreteriaFide.Domain.Models.Marca())
+                    </div>
+                    <div class="mb-3">
+                        <label>Proveedores</label>
+                        @Html.Partial("_ComboProveedores", new FerreteriaFide.Domain.Models.Proveedor())
+                    </div>
+                    <div class="mb-0">
+                        <div>
+                            <button type="submit" formaction=@Url.Action("Create","Productos") formmethod="post" class="btn btn-primary waves-effect waves-light me-1">
+                                Registrar
+                            </button>
+                            <a asp-action="Index">Regresar a la lista de Productos</a>
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div> <!-- end col -->
+
+</div> <!-- end row -->
+<!-- JAVASCRIPT -->
+<script src="~/assets/libs/jquery/jquery.min.js"></script>
+<script src="~/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="~/assets/libs/metismenu/metisMenu.min.js"></script>
+<script src="~/assets/libs/simplebar/simplebar.min.js"></script>
+<script src="~/assets/libs/node-waves/waves.min.js"></script>
+
+<script src="~/assets/libs/parsleyjs/parsley.min.js"></script>
+
+<script src="~/assets/js/pages/form-validation.init.js"></script>
+
+<script src="~/assets/js/app.js"></script>

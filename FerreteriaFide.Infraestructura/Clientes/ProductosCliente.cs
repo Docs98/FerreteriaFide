@@ -33,5 +33,16 @@ namespace FerreteriaFide.Infraestructura.Clientes
         {
             return _dbContext.productos.Include(x => x.marca).ToList();
         }
+        public void EditProducto(Producto producto)
+        {
+            _dbContext.productos.Update(producto);
+            _dbContext.SaveChanges();
+        }
+
+        public void DeleteProducto(int idproducto)
+        {
+            _dbContext.productos.Remove(GetProducto(idproducto));
+            _dbContext.SaveChanges();
+        }
     }
 }

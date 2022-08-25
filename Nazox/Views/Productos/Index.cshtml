@@ -28,7 +28,9 @@
                 <th>Nombre</th>
                 <th>Descripcion</th>
                 <th>Marca</th>
+                <th>Provedor</th>
                 <th>Precio</th>
+                <th>Cantidad</th>
                 <th>Accion</th>
 
             </tr>
@@ -56,7 +58,16 @@
                     </td>
                     <td>
                         @*Cedula*@
+                        @Html.DisplayFor(modelItem => item.proveedor.Nombre)
+                    </td>
+                    <td>
+                        @*Cedula*@
                         @Html.DisplayFor(modelItem => item.Precio)
+                    </td>
+                    <td>
+                        @*Cedula*@
+                        @Html.DisplayFor(modelItem => item.CantidadDisponible)
+                       
                     </td>
                 <td id="tooltip-container1">
                         <a asp-action="Edit" class="me-3 text-primary" asp-route-id="@item.IdProducto" data-bs-container="#tooltip-container9" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><i class="mdi mdi-pencil font-size-18"></i></a>

@@ -32,5 +32,22 @@ namespace FerreteriaFide.Infraestructura.Clientes
         {
             return _dbContext.usuarios.Include(x => x.Cedula).ToList();
         }
+
+        public void AddUsuario(Usuarios usuario)
+        {
+            try
+            {
+                _dbContext.usuarios.Add(usuario);
+                _dbContext.SaveChanges();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
+
+
     }
 }

@@ -1,4 +1,5 @@
-﻿@{
+﻿@model FerreteriaFide.Domain.Models.Usuarios
+@{
     ViewData["Title"] = "Register";
     Layout = "~/Views/_Shared/_BlankLayout.cshtml";
 }
@@ -30,24 +31,29 @@
                                             <div class="auth-form-group-custom mb-4">
                                                 <i class="ri-mail-line auti-custom-input-icon"></i>
                                                 <label for="useremail">Email</label>
-                                                <input type="email" class="form-control" id="useremail" placeholder="Enter email">
+                                                @Html.TextBoxFor(u => u.Email, new {@id = "EmailUser", @class = "form-control"})
                                             </div>
 
                                             <div class="auth-form-group-custom mb-4">
                                                 <i class="ri-user-2-line auti-custom-input-icon"></i>
                                                 <label for="username">Nombre</label>
-                                                <input type="text" class="form-control" id="username" placeholder="Enter username">
+                                                @Html.TextBoxFor(u => u.Nombre, new {@id = "NameUser", @class = "form-control"})
+                                            </div>
+                                            <div class="auth-form-group-custom mb-4">
+                                                <i class="ri-user-2-line auti-custom-input-icon"></i>
+                                                <label for="username">Nombre</label>
+                                                @Html.TextBoxFor(u => u.Telefono, new {@id = "TeleflUser", @class = "form-control"})
                                             </div>
 
                                             <div class="auth-form-group-custom mb-4">
                                                 <i class="ri-lock-2-line auti-custom-input-icon"></i>
                                                 <label for="userpassword">Contraseña</label>
-                                                <input type="password" class="form-control" id="userpassword" placeholder="Enter password">
+                                                @Html.PasswordFor(u => u.Clave, new {@id = "EmailUser", @class = "form-control"})
                                             </div>
 
 
                                             <div class="text-center">
-                                                <button class="btn btn-primary w-md waves-effect waves-light" type="submit">Registrarse</button>
+                                                <button formaction=@Url.Action("Register","AuthRegister") formmethod="post" class="btn btn-primary w-md waves-effect waves-light" type="submit">Registrarse</button>
                                             </div>
 
                  

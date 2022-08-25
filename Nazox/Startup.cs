@@ -10,6 +10,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.CodeAnalysis.Options;
 
 namespace Nazox
 {
@@ -32,9 +34,16 @@ namespace Nazox
             options.UseSqlServer(connectionString));
             //services.AddDbContextPool<ApplicationDbContext>
             //(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
+
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+            .AddCookie(option =>
+            {
+                option.LoginPath = "/AuthLogin/Index";
+                option.ExpireTimeSpan = TimeSpan.FromMinutes(60);
+                option.AccessDeniedPath = "/AuthLogin/Index";
+            });
         }
 
-        
 
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

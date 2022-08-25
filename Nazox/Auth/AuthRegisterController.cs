@@ -32,7 +32,7 @@ namespace Nazox.Auth
                 return RedirectToAction("Index", "AuthLogin");
             }
 
-            return RedirectToAction("Index");
+            return View("Index");
         }
     }
 }

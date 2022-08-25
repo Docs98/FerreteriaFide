@@ -30,14 +30,14 @@
 
                                             <div class="mb-3 auth-form-group-custom mb-4">
                                                 <i class="ri-user-2-line auti-custom-input-icon"></i>
-                                                <label for="username">Username</label>
-                                                @Html.TextBoxFor(u => u.Email, new {@id = "EmailUser", @class = "form-control"})
+                                                <label for="username">Correo electronico</label>
+                                                <input type="email" class="form-control" asp-for="Email">
                                             </div>
 
                                             <div class="mb-3 auth-form-group-custom mb-4">
                                                 <i class="ri-lock-2-line auti-custom-input-icon"></i>
                                                 <label for="userpassword">Contraseña</label>
-                                                @Html.PasswordFor(u => u.Clave, new {@id = "EmailUser", @class = "form-control"})
+                                                <input type="password" class="form-control" asp-for="Clave">
                                             </div>
 
                                            

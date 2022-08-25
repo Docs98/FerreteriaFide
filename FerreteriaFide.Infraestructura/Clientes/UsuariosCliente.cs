@@ -47,7 +47,15 @@ namespace FerreteriaFide.Infraestructura.Clientes
             }
         }
 
-
-
+        public Usuarios? IsValidUsuario(Usuarios usuario)
+        {
+            if (usuario!=null)
+            {
+#pragma warning disable CS8603 // Possible null reference return.
+                return _dbContext.usuarios.FirstOrDefault(x => x.Email == usuario.Email && x.Clave == usuario.Clave);
+#pragma warning restore CS8603 // Possible null reference return.
+            }
+            return null;
+        }
     }
 }

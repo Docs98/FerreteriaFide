@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace FerreteriaFide.Domain.Models
 {
-    public class Usuarios: IdentityUser
+    public class Usuarios
     {
         [Key]
         public int Cedula { get; set; }
@@ -21,9 +21,8 @@ namespace FerreteriaFide.Domain.Models
         [Required]
         public string Email { get; set; }
         public int Telefono { get; set; }
-        [Required]
-        public int IdRol { get; set; }
 
-        public Roles roles { get; set; }
+        public virtual Roles roles { get; set; }
+
     }
 }

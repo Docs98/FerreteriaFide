@@ -1,4 +1,5 @@
-﻿@{
+﻿@model FerreteriaFide.Domain.Models.Usuarios
+@{
     ViewData["Title"] = "Login";
     Layout = "~/Views/_Shared/_BlankLayout.cshtml";
 }
@@ -30,13 +31,13 @@
                                             <div class="mb-3 auth-form-group-custom mb-4">
                                                 <i class="ri-user-2-line auti-custom-input-icon"></i>
                                                 <label for="username">Username</label>
-                                                <input type="text" class="form-control" id="username" placeholder="Enter username">
+                                                @Html.TextBoxFor(u => u.Email, new {@id = "EmailUser", @class = "form-control"})
                                             </div>
 
                                             <div class="mb-3 auth-form-group-custom mb-4">
                                                 <i class="ri-lock-2-line auti-custom-input-icon"></i>
                                                 <label for="userpassword">Contraseña</label>
-                                                <input type="password" class="form-control" id="userpassword" placeholder="Enter password">
+                                                @Html.PasswordFor(u => u.Clave, new {@id = "EmailUser", @class = "form-control"})
                                             </div>
 
                                            

@@ -1,5 +1,6 @@
 ﻿using FerreteriaFide.Domain.Models;
 using FerreteriaFide.Infraestructura.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Ferreteria_Fide.Roles
 {
-
+    [Authorize(Roles = "Administrator")]
     public class RolesController : Controller
     {
         private readonly ApplicationDbContext _context;

@@ -5,10 +5,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+using Microsoft.AspNetCore.Authorization;
 
 namespace Ferreteria_Fide.Usuarios
 {
+    [Authorize(Roles = "Administrator")]
     public class UsuariosController : Controller
     {
         private readonly ApplicationDbContext _context;

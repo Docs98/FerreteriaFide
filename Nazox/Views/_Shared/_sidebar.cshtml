@@ -1,4 +1,10 @@
-﻿<!-- ========== Left Sidebar Start ========== -->
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@inject Microsoft.Extensions.Configuration.IConfiguration config
+@{
+    int rol = (HttpContextAccessor.HttpContext.Session.GetString("IDrol") == null ? 0 : (int)HttpContextAccessor.HttpContext.Session.GetInt32("IDrol"));
+}
+<!-- ========== Left Sidebar Start ========== -->
 <div class="vertical-menu">
 
     <div data-simplebar class="h-100">
@@ -16,8 +22,12 @@
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
                         <li><a href=@Url.Action("Index", "Productos")>Tabla Productos</a></li>
-                        <li><a href=@Url.Action("Create", "Productos")>Agregar productos</a></li>
-                        
+
+                        @if (rol == 1 | rol == 2)
+                        {
+                            <li><a href=@Url.Action("Create", "Productos")>Agregar productos</a></li>
+                        }
+
                     </ul>
                 </li>
 
@@ -31,24 +41,28 @@
                         <span>Autenticacion</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
-                        <li><a href=@Url.Action("Index", "Usuarios")>Tabla Usaurios</a></li>
+                        <li><a href=@Url.Action("Index", "Usuarios")>Tabla Usuarios</a></li>
+                        @if (rol == 1 | rol == 2)
+                        {
                         <li><a href=@Url.Action("Index", "AuthRegister")>Registro</a></li>
-                      
+                        }
                     </ul>
                 </li>
+                @if (rol == 1 | rol == 2)
+                {
 
-                <li>
-                    <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="ri-profile-line"></i>
-                        <span>Roles</span>
-                    </a>
-                    <ul class="sub-menu" aria-expanded="false">
-                        <li><a href=@Url.Action("Index", "Roles")>Tabla roles</a></li>
-                        <li><a href=@Url.Action("Create", "Roles")>Registrar roles</a></li>
-                        
-                    </ul>
-                </li>
-                
+                    <li>
+                        <a href="javascript: void(0);" class="has-arrow waves-effect">
+                            <i class="ri-profile-line"></i>
+                            <span>Roles</span>
+                        </a>
+                        <ul class="sub-menu" aria-expanded="false">
+                            <li><a href=@Url.Action("Index", "Roles")>Tabla roles</a></li>
+                            <li><a href=@Url.Action("Create", "Roles")>Registrar roles</a></li>
+
+                        </ul>
+                    </li>
+                }
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
                         <i class="ri-profile-line"></i>
@@ -56,8 +70,10 @@
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
                         <li><a href=@Url.Action("Index", "Marca")>Tabla Marcas</a></li>
-                        <li><a href=@Url.Action("Create", "Marca")>Registrar Marcas</a></li>
-                        
+                        @if (rol == 1 | rol == 2)
+                        {
+                            <li><a href=@Url.Action("Create", "Marca")>Registrar Marcas</a></li>
+                        }
                     </ul>
                 </li>
                  <li>
@@ -67,8 +83,10 @@
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
                         <li><a href=@Url.Action("Index", "Provedores")>Tabla Provedores</a></li>
-                        <li><a href=@Url.Action("Create", "Provedores")>Registrar Provedores</a></li>
-                        
+                        @if (rol == 1 | rol == 2)
+                        {
+                            <li><a href=@Url.Action("Create", "Provedores")>Registrar Provedores</a></li>
+                        }
                     </ul>
                 </li>
             </ul>

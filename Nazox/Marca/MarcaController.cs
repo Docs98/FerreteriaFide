@@ -19,7 +19,7 @@ namespace Ferreteria_Fide.Marca
         {
             _context = context;
         }
-        [Authorize(Roles = "Administrator,Cajero")]
+        
         public IActionResult Index()
         {
 
@@ -37,7 +37,7 @@ namespace Ferreteria_Fide.Marca
             
             return View(marca);
         }
-
+        [Authorize(Roles = "Administrator")]
         public IActionResult Create()
         {
             return View();

@@ -7,21 +7,31 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.AspNetCore.Authentication;
 using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Configuration;
 
 namespace Nazox.Auth
 {
     public class AuthLoginController : Controller
     {
+        private static IConfiguration config { get; set; }
+
+        private readonly IHttpContextAccessor httpContextAccessor;
+        private ISession session => httpContextAccessor.HttpContext.Session;
+
+        private readonly ILogger<AuthLoginController> _logger;
 
         private readonly ApplicationDbContext _context;
 
-        public AuthLoginController(ApplicationDbContext context)
+        public AuthLoginController(ILogger<AuthLoginController> logger, IHttpContextAccessor _httpContextAccessor, ApplicationDbContext context, IConfiguration Iconfig)
         {
+            _logger = logger;
+            httpContextAccessor = _httpContextAccessor;
             _context = context;
+            config = Iconfig;
         }
         public IActionResult Index()
         {
@@ -44,7 +54,7 @@ namespace Nazox.Auth
                 var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
 
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
-
+                session.SetInt32("IDrol", usuarioValido.roles.IdRol);
                 return RedirectToAction("Index", "Productos");
             }
             return RedirectToAction("Index", "AuthLogin");

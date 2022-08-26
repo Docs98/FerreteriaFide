@@ -30,6 +30,7 @@ namespace Ferreteria_Fide.Marca
         [HttpGet]
         public IActionResult Edit(int id)
         {
+            
             var marca = new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).GetMarca(id);
             
             return View(marca);

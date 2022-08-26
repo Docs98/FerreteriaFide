@@ -19,6 +19,7 @@ namespace Ferreteria_Fide.Marca
         {
             _context = context;
         }
+        [Authorize(Roles = "Administrator,Cajero")]
         public IActionResult Index()
         {
 
@@ -28,6 +29,7 @@ namespace Ferreteria_Fide.Marca
         }
 
         [HttpGet]
+        [Authorize(Roles = "Administrator")]
         public IActionResult Edit(int id)
         {
             
@@ -42,6 +44,7 @@ namespace Ferreteria_Fide.Marca
         }
 
         [HttpPost]
+        [Authorize(Roles = "Administrator")]
         public IActionResult Create(FerreteriaFide.Domain.Models.Marca marca)
         {
             if (ModelState.IsValid)
@@ -53,6 +56,7 @@ namespace Ferreteria_Fide.Marca
         }
 
         [HttpPost]
+        [Authorize(Roles = "Administrator")]
         public IActionResult UpdateMarca(FerreteriaFide.Domain.Models.Marca marca)
         {
             if (ModelState.IsValid)
@@ -64,6 +68,7 @@ namespace Ferreteria_Fide.Marca
         }
 
         [HttpGet]
+        [Authorize(Roles = "Administrator")]
         public IActionResult Delete(int id)
         {
             var marca = new FerreteriaFide.Infraestructura.Clientes.MarcaCliente(_context).GetMarca(id);
@@ -72,6 +77,7 @@ namespace Ferreteria_Fide.Marca
         }
 
         [HttpPost]
+        [Authorize(Roles = "Administrator")]
         public IActionResult DeleteMarca(int idMarca)
         {
             if (ModelState.IsValid)

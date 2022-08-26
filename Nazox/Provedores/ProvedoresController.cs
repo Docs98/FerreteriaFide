@@ -1,5 +1,6 @@
 ﻿using FerreteriaFide.Domain.Models;
 using FerreteriaFide.Infraestructura.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -9,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace Ferreteria_Fide.Provedores
 {
+    [Authorize]
     public class ProvedoresController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -25,19 +27,21 @@ namespace Ferreteria_Fide.Provedores
             return View(listprov);
         }
         [HttpGet]
+        [Authorize(Roles = "Administrator")]
         public IActionResult Edit(int id)
         {
             var proveedor = new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).GetProveedor(id);
 
             return View(proveedor);
         }
-
+        [Authorize(Roles = "Administrator")]
         public IActionResult Create()
         {
             return View();
         }
 
         [HttpPost]
+        [Authorize(Roles = "Administrator")]
         public IActionResult Create(Proveedor provedor)
         {
             if (ModelState.IsValid)
@@ -49,6 +53,7 @@ namespace Ferreteria_Fide.Provedores
         }
 
         [HttpPost]
+        [Authorize(Roles = "Administrator")]
         public IActionResult UpdateProvedor(Proveedor provedor)
         {
             if (ModelState.IsValid)
@@ -59,7 +64,8 @@ namespace Ferreteria_Fide.Provedores
             return RedirectToAction("Edit");
         }
 
-            [HttpGet]
+        [HttpGet]
+        [Authorize(Roles = "Administrator")]
         public IActionResult Delete(int id)
         {
             var proveedor = new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).GetProveedor(id);
@@ -68,6 +74,7 @@ namespace Ferreteria_Fide.Provedores
         }
 
         [HttpPost]
+        [Authorize(Roles = "Administrator")]
         public IActionResult DeleteProveedor(int idProveedor)
         {
             if (ModelState.IsValid)

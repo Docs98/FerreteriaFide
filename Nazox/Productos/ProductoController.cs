@@ -1,6 +1,7 @@
 ﻿using FerreteriaFide.Aplicacion.Contratos;
 using FerreteriaFide.Domain.Models;
 using FerreteriaFide.Infraestructura.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -12,7 +13,7 @@ using MarcaModel = FerreteriaFide.Domain.Models.Marca;
 
 namespace Ferreteria_Fide.Productos
 {
-
+    [Authorize]
     public class ProductosController : Controller
     {
         private readonly ApplicationDbContext _context;

@@ -1,4 +1,10 @@
-﻿@model IEnumerable<FerreteriaFide.Domain.Models.Marca>
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@inject Microsoft.Extensions.Configuration.IConfiguration config
+@{
+    int rol = (HttpContextAccessor.HttpContext.Session.GetString("IDrol") == null ? 0 : (int)HttpContextAccessor.HttpContext.Session.GetInt32("IDrol"));
+}
+@model IEnumerable<FerreteriaFide.Domain.Models.Marca>
 @{
     ViewBag.Title = "Marca";
     ViewBag.pTitle = "Marca";
@@ -27,7 +33,10 @@
                 
                 <th>Marca ID</th>
                 <th>Nombre</th>
-                <th style="width: 120px;">Action</th>
+                 @if (rol == 1 | rol == 2)
+                    {
+                <th>Accion</th>
+                }
             </tr>
         </thead>
         <tbody>
@@ -43,17 +52,20 @@
                         @*Cedula*@
                         @Html.DisplayFor(modelItem => item.Nombre)
                     </td>
-                   
+                    @if (rol == 1 | rol == 2)
+                    {
                     <td id="tooltip-container9">
                         <a asp-action="Edit" class="me-3 text-primary" asp-route-id="@item.IdMarca" data-bs-container="#tooltip-container9" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><i class="mdi mdi-pencil font-size-18"></i></a>
-                        <a asp-action="Delete" class="text-danger" asp-route-id="@item.IdMarca" data-bs-container="#tooltip-container9" formmethod="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><i class="mdi mdi-trash-can font-size-18"></i></a>
+                        <a asp-action="Delete" class="text-danger" asp-route-id="@item.IdMarca" data-bs-container="#tooltip-container9" formmethod="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><i class="mdi mdi-trash-can font-size-18"></i></a>
                     </td>
+                    }
                 </tr>
                 }
             </tbody>
         </table>
     </div>
-                    
+            
+            
     <!-- end row -->
     <!-- JAVASCRIPT -->
     <script src="~/assets/libs/jquery/jquery.min.js"></script>

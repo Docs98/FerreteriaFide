@@ -31,7 +31,7 @@ namespace FerreteriaFide.Infraestructura.Clientes
 
         public List<Producto> GetProductos()
         {
-            return _dbContext.productos.Include(x => x.marca).ToList();
+            return _dbContext.productos.Include(x => x.marca).Include(x=>x.proveedor).ToList();
         }
         public void EditProducto(Producto producto)
         {

@@ -1,7 +1,7 @@
-﻿@model FerreteriaFide.Domain.Models.Roles
+﻿@model FerreteriaFide.Domain.Models.Usuarios
 @{
-    ViewBag.Title = "Editar Roles";
-    ViewBag.pTitle = "Editar Roles";
+    ViewBag.Title = "Editar Usuarios";
+    ViewBag.pTitle = "Editar Usuarios";
     ViewBag.pageTitle = "Ferreteria Fide";
     Layout = "~/Views/_Shared/_Layout.cshtml";
 }
@@ -29,33 +29,44 @@
 
 
                 <form class="custom-validation" action="#">
-                    <input type="hidden" asp-for="IdRol" />
+                    <input type="hidden" asp-for="Cedula" />
                     <div class="mb-3">
-                        <label> Descripcion</label>
-                        @Html.TextBoxFor(u => u.Description, new {@class = "form-control", placeholder = "Digite la descripcion del rol" })
+                        <label> Nombre</label>
+                        @Html.TextBoxFor(u =>u.Nombre, new {@class = "form-control", placeholder = "Digite el nombre del usuario" })
                     </div>
                     <div class="mb-3">
-                        <label>Puesto</label>
+                        <label>Contraseña</label>
                         <div>
-                            @Html.TextBoxFor(u => u.Puesto, new {@class = "form-control", placeholder = "Digite el puesto del rol"})
+                            @Html.PasswordFor(u => u.Clave, new {@class = "form-control", placeholder = "Digite la contraseña"})
                         </div>
                     </div>
 
 
                     <div class="mb-3">
-                        <label>Salario</label>
+                        <label>Email</label>
                         <div>
-                            @Html.TextBoxFor(u => u.Salario, new {@class = "form-control", placeholder = "Digitar el salario del rol",type="number" })
+                            @Html.TextBoxFor(u => u.Email, new {@class = "form-control", placeholder = "Digitar el correo electronico del usuario" })
                         </div>
                     </div>
-
+                    <div class="mb-3">
+                        <label>Telefono</label>
+                        <div>
+                            @Html.TextBoxFor(u => u.Telefono, new {@class = "form-control", placeholder = "Digitar el numero telefonico ",type="number" })
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label>Rol</label>
+                        <div>
+                            @Html.TextBoxFor(u => u.roles.IdRol, new {@class = "form-control", placeholder = "Digitar el numero del rol del usuario ",type="number" })
+                        </div>
+                    </div>
 
                     <div class="mb-0">
                         <div>
-                            <button type="submit" formaction=@Url.Action("UpdateRoles","Roles") formmethod="post" class="btn btn-primary waves-effect waves-light me-1">
+                            <button type="submit" formaction=@Url.Action("UpdateUsuarios","Usuarios") formmethod="post" class="btn btn-primary waves-effect waves-light me-1">
                                 Registrar
                             </button>
-                            <a asp-action="Index">Regresar a la lista de los roles</a>
+                            <a asp-action="Index">Regresar a la lista de los usuarios</a>
                         </div>
                     </div>
                 </form>
@@ -77,4 +88,3 @@
 <script src="~/assets/js/pages/form-validation.init.js"></script>
 
 <script src="~/assets/js/app.js"></script>
-

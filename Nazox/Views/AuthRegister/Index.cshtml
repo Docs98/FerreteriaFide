@@ -50,8 +50,7 @@
                                                 <label for="userpassword">Contraseña</label>
                                                 @Html.PasswordFor(u => u.Clave, new {@id = "PasslUser", @class = "form-control"})
                                             </div>
-
-
+                                          
                                             <div class="text-center">
                                                 <button formaction=@Url.Action("Register","AuthRegister") formmethod="post" class="btn btn-primary w-md waves-effect waves-light" onClick=";" type="submit">Registrarse</button>
                                             </div>

@@ -20,7 +20,7 @@ namespace FerreteriaFide.Infraestructura.Clientes
 
         public List<Usuarios> GetAllUsuarios()
         {
-            return _dbContext.usuarios.ToList();
+            return _dbContext.usuarios.Include(x => x.roles).ToList();
         }
 
         public Usuarios GetUsuarios(int Cedula)
@@ -30,7 +30,7 @@ namespace FerreteriaFide.Infraestructura.Clientes
 
         public List<Usuarios> GetUsuarios()
         {
-            return _dbContext.usuarios.Include(x => x.Cedula).ToList();
+            return _dbContext.usuarios.Include(x => x.Cedula).Include(x => x.roles).ToList();
         }
 
         public bool UserExist(string email)
@@ -72,6 +72,17 @@ namespace FerreteriaFide.Infraestructura.Clientes
 #pragma warning restore CS8603 // Possible null reference return.
             }
             return null;
+        }
+        public void EditUsuarios(Usuarios usuario)
+        {
+            _dbContext.usuarios.Update(usuario);
+            _dbContext.SaveChanges();
+        }
+
+        public void DeleteUsuarios(int cedula)
+        {
+            _dbContext.usuarios.Remove(GetUsuarios(cedula));
+            _dbContext.SaveChanges();
         }
     }
 }

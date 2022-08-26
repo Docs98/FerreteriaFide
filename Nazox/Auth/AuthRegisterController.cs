@@ -29,6 +29,7 @@ namespace Nazox.Auth
         {
             if (usuario.roles == null)
             {
+                
                 usuario.roles = new FerreteriaFide.Infraestructura.Clientes.RolesClientes(_context).GetRoles(3);
                 if (new FerreteriaFide.Infraestructura.Clientes.UsuariosCliente(_context).AddUsuario(usuario))
                 {

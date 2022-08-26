@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Ferreteria_Fide.Roles
 {
-    [Authorize(Roles = "Administrator")]
+    [Authorize(Roles = "1")]
     public class RolesController : Controller
     {
         private readonly ApplicationDbContext _context;

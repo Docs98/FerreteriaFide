@@ -55,6 +55,7 @@ namespace Nazox.Auth
 
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
                 session.SetInt32("IDrol", usuarioValido.roles.IdRol);
+                session.SetString("Nombre",usuarioValido.Nombre);
                 return RedirectToAction("Index", "Productos");
             }
             return RedirectToAction("Index", "AuthLogin");

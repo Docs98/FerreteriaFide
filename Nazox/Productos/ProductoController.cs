@@ -59,7 +59,8 @@ namespace Ferreteria_Fide.Productos
 
             return View(producto);
         }
-       
+        [Authorize(Roles = "1,2")]
+        
         public IActionResult Create()
         {
             List<SelectListItem> comboMarcas = new List<SelectListItem>();
@@ -91,7 +92,7 @@ namespace Ferreteria_Fide.Productos
             
             return View();
         }
-
+        [Authorize(Roles = "1,2")]
         [HttpPost]
         public IActionResult Create(Producto producto,MarcaModel marca,Proveedor proveedor)
         {
@@ -105,6 +106,7 @@ namespace Ferreteria_Fide.Productos
             return RedirectToAction("Create", "Productos");
         }
 
+        [Authorize(Roles = "1,2")]
         [HttpPost]
         public IActionResult UpdateProducto(Producto producto, MarcaModel marca, Proveedor proveedor)
         {
@@ -117,7 +119,7 @@ namespace Ferreteria_Fide.Productos
             }
             return RedirectToAction("Create", "Productos");
         }
-
+        [Authorize(Roles = "1,2")]
         [HttpGet]
         public IActionResult Delete(int id)
         {
@@ -125,7 +127,7 @@ namespace Ferreteria_Fide.Productos
 
             return View(producto);
         }
-
+        [Authorize(Roles = "1,2")]
         [HttpPost]
         public IActionResult DeleteProducto(int idProducto)
         {

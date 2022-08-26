@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace Ferreteria_Fide.Usuarios
 {
-    [Authorize(Roles = "Administrator")]
+    [Authorize(Roles = "1")]
     public class UsuariosController : Controller
     {
         private readonly ApplicationDbContext _context;

@@ -1,4 +1,12 @@
-﻿<header id="page-topbar">
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@inject Microsoft.Extensions.Configuration.IConfiguration config
+@{
+    int rol = (HttpContextAccessor.HttpContext.Session.GetString("IDrol") == null ? 0 : (int)HttpContextAccessor.HttpContext.Session.GetInt32("IDrol"));
+
+}
+
+<header id="page-topbar">
     <div class="navbar-header">
         <div class="d-flex">
             <!-- LOGO -->
@@ -60,7 +68,7 @@
             <div class="dropdown d-inline-block user-dropdown">
                 <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
                         data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <span class="d-xl-inline-block ms-1">Registrarse</span>
+                    <span class="d-xl-inline-block ms-1">@HttpContextAccessor.HttpContext.Session.GetString("Nombre")</span>
                     <i class="mdi mdi-chevron-down d-none d-xl-inline-block"></i>
                 </button>
                 <div class="dropdown-menu dropdown-menu-end">

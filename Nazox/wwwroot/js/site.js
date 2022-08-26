@@ -1,4 +1,19 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿function verificacioncorreo() {
 
-// Write your JavaScript code.
+    var Email = $('#EmailUser').val()
+    var username = $('#NameUser').val()
+    var userpassword = $('#PasslUser').val()
+    var userTel = $('#TeleflUser').val()
+
+    if ((Email == "") || (username == "") || (userpassword == "") || (userTel == "")) {
+        alert("Los campos no pueden quedar vacios");
+        return false;
+    }
+
+
+    re = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    if (!re.test(Email)) {
+        alert('email no valido');
+        return false;
+    }
+}

@@ -33,18 +33,34 @@ namespace FerreteriaFide.Infraestructura.Clientes
             return _dbContext.usuarios.Include(x => x.Cedula).ToList();
         }
 
-        public void AddUsuario(Usuarios usuario)
+        public bool UserExist(string email)
         {
-            try
+            var user = _dbContext.usuarios.FirstOrDefault(x=> x.Email == email);
+            if (user == null)
             {
-                _dbContext.usuarios.Add(usuario);
-                _dbContext.SaveChanges();
+                return true; //no existe
             }
-            catch (Exception)
-            {
+                return false; //existe
+        }
 
-                throw;
+        public bool AddUsuario(Usuarios usuario)
+        {
+            if (UserExist(usuario.Email))
+            {
+                try
+                {
+                    _dbContext.usuarios.Add(usuario);
+                    _dbContext.SaveChanges();
+                    return true;
+                }
+                catch (Exception)
+                {
+
+                    return false;
+                }
             }
+            return false;
+
         }
 
         public Usuarios? IsValidUsuario(Usuarios usuario)

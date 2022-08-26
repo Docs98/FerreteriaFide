@@ -27,21 +27,21 @@ namespace Ferreteria_Fide.Provedores
             return View(listprov);
         }
         [HttpGet]
-        [Authorize(Roles = "Administrator")]
+        [Authorize(Roles = "1,2")]
         public IActionResult Edit(int id)
         {
             var proveedor = new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).GetProveedor(id);
 
             return View(proveedor);
         }
-        [Authorize(Roles = "Administrator")]
+        [Authorize(Roles = "1,2")]
         public IActionResult Create()
         {
             return View();
         }
 
         [HttpPost]
-        [Authorize(Roles = "Administrator")]
+        [Authorize(Roles = "1,2")]
         public IActionResult Create(Proveedor provedor)
         {
             if (ModelState.IsValid)
@@ -53,7 +53,7 @@ namespace Ferreteria_Fide.Provedores
         }
 
         [HttpPost]
-        [Authorize(Roles = "Administrator")]
+        [Authorize(Roles = "1,2")]
         public IActionResult UpdateProvedor(Proveedor provedor)
         {
             if (ModelState.IsValid)
@@ -65,7 +65,7 @@ namespace Ferreteria_Fide.Provedores
         }
 
         [HttpGet]
-        [Authorize(Roles = "Administrator")]
+        [Authorize(Roles = "1,2")]
         public IActionResult Delete(int id)
         {
             var proveedor = new FerreteriaFide.Infraestructura.Clientes.ProveedorCliente(_context).GetProveedor(id);
@@ -74,7 +74,7 @@ namespace Ferreteria_Fide.Provedores
         }
 
         [HttpPost]
-        [Authorize(Roles = "Administrator")]
+        [Authorize(Roles = "1,2")]
         public IActionResult DeleteProveedor(int idProveedor)
         {
             if (ModelState.IsValid)

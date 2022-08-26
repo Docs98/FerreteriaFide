@@ -12,6 +12,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.CodeAnalysis.Options;
+using FerreteriaFide.Domain.Models;
+using FerreteriaFide.Aplicacion.Contratos;
+using FerreteriaFide.Infraestructura.Clientes;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 
 namespace Nazox
 {
@@ -32,8 +37,17 @@ namespace Nazox
             string connectionString = Configuration.GetConnectionString("Default");
             services.AddDbContextPool<ApplicationDbContext>(options =>
             options.UseSqlServer(connectionString));
+
+            services.Configure<ConfiguracionSmtp>(
+            Configuration.GetSection(ConfiguracionSmtp.config));
+            services.AddSingleton<ICartero,CorreoCartero>();
+
             //services.AddDbContextPool<ApplicationDbContext>
             //(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
+            services.AddSession();
+            services.AddHttpContextAccessor();
+            services.AddControllersWithViews();
+            services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
             .AddCookie(option =>
@@ -64,6 +78,9 @@ namespace Nazox
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseSession();
+
 
             app.UseAuthentication();
 

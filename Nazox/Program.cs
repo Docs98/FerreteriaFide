@@ -22,5 +22,6 @@ namespace Nazox
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
     }
 }

@@ -32,7 +32,8 @@
                 </li>
 
               
-
+                @if (rol == 1)
+                {
                 <li class="menu-title">Administrador</li>
 
                 <li>
@@ -42,13 +43,13 @@
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
                         <li><a href=@Url.Action("Index", "Usuarios")>Tabla Usuarios</a></li>
-                        @if (rol == 1 | rol == 2)
-                        {
+                        
                         <li><a href=@Url.Action("Index", "AuthRegister")>Registro</a></li>
-                        }
+                        
                     </ul>
                 </li>
-                @if (rol == 1 | rol == 2)
+                }
+                @if (rol == 1)
                 {
 
                     <li>
